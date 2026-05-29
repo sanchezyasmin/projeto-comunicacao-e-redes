@@ -3,7 +3,7 @@ Projeto final da disciplina de Comunicação e Redes, realizada em 2024 na UFABC
 
 ### 🎯 Objetivos
 
-Este projeto busca entender mapear e compreender métricas estruturais em redes complexas através do universo fictício criado pela autora Suzanne Collins na saga Jogos Vorazes. A ideia principal é verificar se as personagens desse mundo fictício se conhecem para que então, possamos afirmar com certeza que a autora conseguiu criar um universo completo em que, da 1ª à 75ª edição dos Jogos Vorazes, há uma rede complexa de relações criadas dentro desse mundo distópico. Para cumprir esses objetivos, iremos utilizar as seguintes ferramentas: 
+Este projeto busca mapear e compreender métricas estruturais em redes complexas através do universo fictício criado pela autora Suzanne Collins na saga Jogos Vorazes. A ideia principal é verificar se as personagens desse mundo fictício se conhecem para que então, possamos afirmar com certeza que a autora conseguiu criar um universo completo em que, da 1ª à 75ª edição dos Jogos Vorazes, há uma rede complexa de relações criadas dentro desse mundo distópico. Para cumprir esses objetivos, iremos utilizar as seguintes ferramentas: 
 
 ### 🛠️ Ferramentas de Software, Plataformas e Serviços Computacionais
 
