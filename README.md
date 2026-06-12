@@ -22,7 +22,7 @@ Foram localizados 150 personagens mencionados, sendo 52 da Capital e o restante 
 
 | Tipo | Visualizar | Descrição |
 | :--- | :--- | :--- |
-| **Código em Python** | [Ver código](trabalho_cr.ipynb) | Jupyter Notebook com o código completo utilizado. |
+| **Código em Python** | [Ver código](trabalho_cr.ipynb) | Jupyter Notebook com o código, grafo e histogramas. |
 | **Dados obtidos** | [Ver Dados](dados_obtidos.md) | Tabelas com os dados obtidos a partir da EDA inicial. |
 | **Métricas** | [Ver Métricas](metricas.md) | Tabelas com as métricas obtidas a partir do grafo e análises. |
 
