@@ -89,3 +89,23 @@ Jogos Vorazes, uma vez que o valor de r é igual a -0,14.
 A **densidade do grafo** de Jogos Vorazes é de 0,11, o que
 significa que o grafo, em geral, pode ser considerado
 esparso.
+
+### ✔️ Conclusões 
+
+Através da análise das métricas obtidas a partir da
+construção do grafo, foi possível **confirmar a hipótese inicial**
+de que o personagem Coriolanus Snow é de fato o
+personagem mais influente da saga, possuindo não somente
+o maior número de conexões, como também de
+intermediação. Superando, inclusive, os personagens
+principais da saga que, por senso comum, costumam ser os
+personagens com maior número de conexões.
+
+Ainda que a métrica de densidade indique que o grafo é
+esparso, a introdução de novas obras, como é o caso de
+Sunrise on the Reaping (“Nascer do sol na colheita”, em
+tradução livre) que está previsto para ser lançado em 2025,
+deve cumprir o trabalho de gerar novas conexões que ainda
+não temos conhecimento, aumentar a densidade do grafo, e
+portanto, tornar o universo fictício criado por Collins ainda
+mais completo.
