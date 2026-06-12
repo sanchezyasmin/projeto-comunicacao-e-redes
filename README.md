@@ -18,7 +18,13 @@ Este projeto busca mapear e compreender métricas estruturais em redes complexas
 
 ### ✔️ Resultados gerais
 
-Foram localizados 150 personagens mencionados, sendo 52 da Capital e o restante dos 12 Distritos existentes na trama, além disso, o personagem com mais conexões é Coriolanus Snow. Analisando os três jogos descritos da saga (74ª, 75ª e 10ª edição, respectivamente na ordem de lançamento), apenas no 10º jogo temos nomes de todos as personagens dos 12 distritos que participaram. 
+Foram localizados 150 personagens mencionados, sendo 52 da Capital e o restante dos 12 Distritos existentes na trama, além disso, o personagem com mais conexões é Coriolanus Snow. Analisando os três jogos descritos da saga (74ª, 75ª e 10ª edição, respectivamente na ordem de lançamento), apenas no 10º jogo temos nomes de todos as personagens dos 12 distritos que participaram. Confira o código, dados obtidos e métricas completas abaixo: 
+
+| Tipo | Visualizar | Descrição |
+| :--- | :--- | :--- |
+| **Código em Python** | [Ver código](trabalho_cr.ipynb) | Jupyter Notebook com o código completo utilizado. |
+| **Dados obtidos** | [Ver Dados](metricas/betweenness.md) | Tabelas com os dados obtidos a partir da EDA inicial. |
+| **Métricas** | [Ver Métricas](closeness.csv) | Tabelas com as métricas obtidas a partir do grafo e análises. |
 
 ### 🔍 Observações importantes 
 
